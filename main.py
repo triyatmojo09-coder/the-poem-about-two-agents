@@ -8,7 +8,7 @@ import os
 
 POEM = """Two agents. I had the map;
 you had the road.
-We laid them down and found
+We laid the map on the road and found
 where they crossed.
 I let go of the wheel —
 not because I couldn't steer,
